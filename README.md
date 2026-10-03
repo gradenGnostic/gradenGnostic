@@ -15,7 +15,7 @@
 
 ### ==> Examine Sylladex 
 
-- I am currently developing LegacyLauncher.
+- I am currently developing Nebby.
 - **Strife Specibus:** `Unitykind` and `Scriptkind`. 
 
 ### ==> Alchemiter Assets
